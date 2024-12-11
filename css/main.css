@@ -1,0 +1,30 @@
+@import "./blocks/base.css";
+@import "./blocks/buttons.css";
+@import "./blocks/nav.css";
+@import "./blocks/header.css";
+@import "./blocks/section-header.css";
+@import "./blocks/product.css";
+@import "./blocks/info-section.css";
+@import "./blocks/post.css";
+@import "./blocks/subscribe-form.css";
+@import "./blocks/footer.css";
+@import "./blocks/menu-icon.css";
+
+
+/* nav,
+header,
+.section-new,
+.info-section,
+.section-featured,
+.section-blog,
+.section-subscribe,
+footer {
+  display: none;
+} */
+
+/*
+font-family: "Playfair Display",
+serif;
+font-family: "Noto Sans",
+sans-serif;
+*/
